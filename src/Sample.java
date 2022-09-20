@@ -7,5 +7,6 @@ public class Sample {
         System.out.println("Hello " + name);
         System.out.println("Scanner my beloved");
         System.out.println("It's Morbin time");
+        System.out.println("My favorite food is ramen");
     }
 }
