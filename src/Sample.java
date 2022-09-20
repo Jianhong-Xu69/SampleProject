@@ -6,5 +6,6 @@ public class Sample {
         String name = heh.nextLine();
         System.out.println("Hello " + name);
         System.out.println("Scanner my beloved");
+        System.out.println("It's Morbin time");
     }
 }
